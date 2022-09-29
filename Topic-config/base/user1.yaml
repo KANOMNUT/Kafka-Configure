@@ -10,7 +10,7 @@ spec:
   authorization:
     type: simple
     acls:
-      # access to kafka topic [Write]
+      # access to kafka topic [All]
       - resource:
           type: topic
           name: aaf-master-currency
