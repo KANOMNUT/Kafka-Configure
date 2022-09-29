@@ -23,6 +23,12 @@ spec:
           patternType: literal
         operation: All
         host: "*"
+      - resource:
+          type: topic
+          name: test2
+          patternType: literal
+        operation: All
+        host: "*"
       # access to kafka group [All]
       - resource:
           type: group
