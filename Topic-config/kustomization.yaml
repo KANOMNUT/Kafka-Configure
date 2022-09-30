@@ -1,5 +1,2 @@
 resources:
-- base/test-topic.yaml
-- base/test-topic-2.yaml
-- base/user1.yaml
-- base/test-topic-3.yaml
+- base/*
