@@ -2,4 +2,4 @@ resources:
 - base/test-topic-2.yaml
 - base/test-topic-3.yaml
 - base/test-topic.yaml
-- base/topic04.yaml
+- base/topic04.yml
