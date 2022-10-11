@@ -65,7 +65,7 @@ spec:
       volumes:
       - id: 0
         type: persistent-claim
-        size: 5Gi
+        size: 10Gi
         class: px-db
         deleteClaim: false
   kafkaExporter:
@@ -89,7 +89,7 @@ spec:
       log4j.rootLogger: "INFO, CONSOLE, WARN, ERROR"
     storage:
       type: persistent-claim
-      size: 2Gi
+      size: 5Gi
       class: px-db
       deleteClaim: false
   entityOperator:
