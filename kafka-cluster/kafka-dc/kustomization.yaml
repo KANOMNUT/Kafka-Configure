@@ -1,4 +1,4 @@
 resources:
-- kafka-dc/kafka-dc.yaml
-- kafka-dc/kafka-metrics-config.yaml
-- kafka-dc/zookeeper-metrics.yaml
+- kafka-dc.yaml
+- kafka-metrics-config.yaml
+- zookeeper-metrics.yaml
