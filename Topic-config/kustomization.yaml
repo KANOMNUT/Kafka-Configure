@@ -3,3 +3,4 @@ resources:
 - base/test-topic-3.yaml
 - base/test-topic.yaml
 - base/topic04.yml
+- base/user1.yaml
